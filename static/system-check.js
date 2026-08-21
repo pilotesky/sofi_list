@@ -27,17 +27,24 @@
     { name: '微信',               minVersion: 7,  note: '' },
     { name: '企业微信',           minVersion: 7,  note: '' },
     { name: 'TIM',                minVersion: 7,  note: '' },
+    { name: '钉钉',               minVersion: 7,  note: '' },
 
     // ---- 浏览器 ----
+    { name: 'Chrome',             minVersion: 10, note: 'Win7/8 需下载旧版本 109' },
     { name: '360 安全浏览器',     minVersion: 7,  note: '' },
-    { name: '360 极速浏览器',     minVersion: 7,  note: '32位和64位都可以' },
+    { name: '360 极速浏览器',     minVersion: 7,  note: '32位版对老 XP/7 兼容性更好、广告更少' },
 
-    // ---- 播放器 ----
+    // ---- 音乐播放器 ----
     { name: '酷狗音乐',           minVersion: 7,  note: '' },
     { name: 'QQ 音乐',            minVersion: 7,  note: '' },
     { name: '网易云音乐',         minVersion: 7,  note: '' },
     { name: '汽水音乐',           minVersion: 10, note: 'Windows 10 及以上' },
+
+    // ---- 视频播放器 ----
     { name: '爱奇艺万能播放器',   minVersion: 7,  note: '' },
+    { name: 'K-Lite Codec Pack',  minVersion: 7,  note: '' },
+    { name: 'PotPlayer',          minVersion: 7,  note: '' },
+    { name: 'VLC',                minVersion: 7,  note: '' },
 
     // ---- Office ----
     { name: 'WPS Office',         minVersion: 7,  note: '' },
@@ -45,6 +52,7 @@
 
     // ---- 压缩软件 ----
     { name: '360 Zip',            minVersion: 7,  note: '' },
+    { name: '7-Zip',              minVersion: 7,  note: '开源免费，XP 老系统可用旧版' },
 
     // ---- PDF 阅读器 ----
     { name: '福昕 PDF 阅读器',   minVersion: 7,  note: '' },
