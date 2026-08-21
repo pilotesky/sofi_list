@@ -1,0 +1,5 @@
+baseURL: "https://deskhub.cc"
+locale: "zh-cn"
+title: "门店工具下载"
+
+buildDrafts: false
