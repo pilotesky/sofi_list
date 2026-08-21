@@ -22,13 +22,13 @@ tags = ['软件', '下载']
 | 微信 | [weixin.qq.com](https://weixin.qq.com) | | 点击Windows下载 |
 | 企业微信 | [work.weixin.qq.com](https://work.weixin.qq.com) | | 点击右上角下载-点击Windows桌面端下载 |
 | TIM | [office.qq.com](https://office.qq.com) | | 简约版 QQ \| 点击官网上的立即下载 |
-| 钉钉 | [www.dingtalk.com](https://www.dingtalk.com) | | 点击官网上的免费下载，选择Windows客户端 |
+| 钉钉 | [www.dingtalk.com](https://www.dingtalk.com) | | 点击右上角下载钉钉 点击Windows客户端系统会开始下载 |
 
 ## 浏览器
 
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
-| Chrome 浏览器 | [www.google.cn/chrome/](https://www.google.cn/chrome/) | | 点击网页上的下载 Chrome \| Win7/8 需下载旧版本（109 及更早） |
+| Chrome 浏览器 | [www.google.cn/chrome/](https://www.google.cn/chrome/) | | 点击网页上的下载 Chrome |
 | 360 安全浏览器 | [browser.360.cn/se/](https://browser.360.cn/se/) | | 点击官网上的立即下载 |
 | 360 极速浏览器 | [browser.360.cn/ee/](https://browser.360.cn/ee/) | | 32位版对老的 Windows XP/7 兼容性更好、广告更少 |
 
@@ -46,9 +46,8 @@ tags = ['软件', '下载']
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
 | 爱奇艺万能播放器 | [www.iqiyi.com](https://www.iqiyi.com/appstore.html?eqid=fb9d7074000805cd0000000464608a8c) | | 一定要下载爱奇艺万能播放的立即下载，其它的都带广告 |
-| K-Lite Codec Pack | [codecguide.com](https://codecguide.com) | | 解码器集成包，配合播放器使用 \| 自带 Media Player Classic |
-| PotPlayer | [potplayer.daum.net](https://potplayer.daum.net) | | 轻量全能播放器，支持几乎所有格式 \| 官网为韩文，点击 Download 下载 |
-| VLC | [www.videolan.org/vlc/](https://www.videolan.org/vlc/) | | 开源免费、无广告，支持几乎所有格式 \| 点击 Download VLC 下载 |
+| PotPlayer | [potplayer.tv](https://potplayer.tv/) | | 轻量全能播放器，支持几乎所有格式 |
+| VLC | [www.videolan.org/vlc/](https://www.videolan.org/vlc/) | | 免费、无广告 点击下载VLC开始下载 |
 
 ## Office
 
@@ -62,7 +61,7 @@ tags = ['软件', '下载']
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
 | 360 Zip | [360totalsecurity.com](https://www.360totalsecurity.com/zh-cn/360zip/) | | 免费压缩解压工具 |
-| 7-Zip | [www.7-zip.org](https://www.7-zip.org) | | 开源免费、无广告 \| 右键即可压缩/解压 \| XP 老系统请下载旧版本 |
+| 7-Zip | [www.7-zip.org](https://www.7-zip.org) | | 免费、无广告 |
 
 ## PDF 阅读器
 
