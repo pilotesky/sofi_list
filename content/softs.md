@@ -2,7 +2,7 @@
 title = '常用软件官方下载地址汇总'
 date = 2026-07-07T16:05:00+08:00
 draft = false
-categories = ['工具']
+categories = ['通用']
 tags = ['软件', '下载']
 +++
 
@@ -45,7 +45,7 @@ tags = ['软件', '下载']
 
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
-| 爱奇艺万能播放器 | [www.iqiyi.com](https://www.iqiyi.com/appstore.html?eqid=fb9d7074000805cd0000000464608a8c) | | 一定要下载爱奇艺万能播放的立即下载，其它的都带广告 |
+| 爱奇艺万能播放器 | [www.iqiyi.com](https://www.iqiyi.com/appstore.html?eqid=fb9d7074000805cd0000000464608a8c) | | 一定要下载爱奇艺万能播放的立即下载，其它的都带广[...] |
 | PotPlayer | [potplayer.tv](https://potplayer.tv/) | | 轻量全能播放器，支持几乎所有格式 |
 | VLC | [www.videolan.org/vlc/](https://www.videolan.org/vlc/) | | 免费、无广告 点击下载VLC开始下载 |
 
