@@ -410,7 +410,10 @@
 
   // ========== 7. 启动 ==========
   detectOSFromUA();
-  refineWindowsVersion().then(function () {
+  // 仅 Windows 10 需要异步 Client Hints；其余系统（如 iOS Safari）同步执行，避免 Promise 等待
+  if (currentOS.isWindows && currentOS.version === 10) {
+    refineWindowsVersion().then(updatePage);
+  } else {
     updatePage();
-  });
+  }
 })();
